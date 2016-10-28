@@ -1,0 +1,7 @@
+{
+    "name": "StorageLinkedService",
+    "properties": {
+        "connectionString": "DefaultEndpointsProtocol=https;AccountName=SampleDf;AccountKey=**********",
+        "type": "AzureStorageLinkedService"
+    }
+}

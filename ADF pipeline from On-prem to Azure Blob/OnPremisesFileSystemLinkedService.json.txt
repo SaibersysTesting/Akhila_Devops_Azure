@@ -1,0 +1,10 @@
+{
+    "name": "OnPremisesFileSystemLinkedService",
+    "properties": {
+        "host": "localhost",
+        "gatewayName": "mydatagateway",
+        "userId": "BennyM",
+        "password": "**********",
+        "type": "OnPremisesFileSystemLinkedService"
+    }
+}

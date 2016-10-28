@@ -1,0 +1,14 @@
+{
+    "name": "AzureBlobDatasetTemplate",
+    "properties": {
+        "location": {
+            "type": "AzureBlobLocation",
+            "folderPath": "myblobcontainer",
+            "linkedServiceName": "StorageLinkedService"
+        },
+        "availability": {
+            "frequency": "Day",
+            "interval": 1
+        }
+    }
+}
